@@ -5,4 +5,4 @@ Optimize your php to ensure that all the functions and classes are defined for c
 
 ## Getting Started
 ### Prerequisites
-PHP: `^7`
+PHP: `^5.6`
