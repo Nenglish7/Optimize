@@ -33,8 +33,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Nenglish7\\Optimize\\Function\\": "./function",
-            "Nenglish7\\Optimize\\Class\\": "./class"
+            "Nenglish7\\Optimize\\Class\\": "./src"
         },
         "files": ["./boot.php"]
     },
