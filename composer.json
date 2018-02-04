@@ -1,0 +1,48 @@
+{
+    "name": "nenglish7/optimize",
+    "type": "library",
+    "keywords": [
+        "optimize",
+        "secure-by-default",
+        "secure-coding",
+        "php-security",
+        "php5-6",
+        "php7-0",
+        "php7-1",
+        "php7-2"
+    ],
+    "description": "Optimize your php to ensure that all the functions and classes are defined for complete compatibility. Enable helper functions and classes to speed up the development of your web application.",
+    "homepage": "https://github.com/Nenglish7/Optimize",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nicholas English",
+            "homepage": "https://github.com/Nenglish7",
+            "email": "nenglish0820@outlook.com",
+            "role": "Owner/Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.6",
+        "symfony/polyfill-php72": "*",
+        "symfony/polyfill-php71": "*",
+        "symfony/polyfill-php70": "*",
+        "psr/container": "*",
+        "psr/log": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nenglish7\\Optimize\\Function\\": "./function",
+            "Nenglish7\\Optimize\\Class\\": "./class"
+        },
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5|^6"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
