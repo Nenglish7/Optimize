@@ -35,7 +35,7 @@
         "psr-4": {
             "Nenglish7\\Optimize\\Function\\": "./function",
             "Nenglish7\\Optimize\\Class\\": "./class"
-        },
+        }
     },
     "require-dev": {
         "phpunit/phpunit": "^5|^6"
