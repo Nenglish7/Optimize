@@ -24,3 +24,4 @@ A permissive license whose main conditions require preservation of copyright and
 ## Links
 - The documentation is at https://github.com/Nenglish7/Optimize/tree/master/docs
 - File issues at https://github.com/Nenglish7/Optimize/issues
+- License is at https://github.com/Nenglish7/Optimize/blob/master/LICENSE
