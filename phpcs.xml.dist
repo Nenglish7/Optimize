@@ -2,6 +2,9 @@
 <ruleset name="Nenglish7/Optimize">
     <description>The php code sniffer.</description>
     <rule ref="PEAR" />
+    <rule ref="Internal.NoCodeFound">
+        <severity>0</severity>
+    </rule>
     <file>./function</file>
     <file>./class</file>
     <file>./tests</file>
