@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="Nenglish7/Optimize">
+    <description>The php code sniffer.</description>
+    <rule ref="PEAR" />
+    <file>./function</file>
+    <file>./class</file>
+    <file>./tests</file>
+</ruleset>
