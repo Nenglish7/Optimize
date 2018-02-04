@@ -15,3 +15,7 @@ Composer can be installed by using the installer by going to their [website](htt
 ```sh
 composer require nenglish7/optimize
 ```
+
+## Links
+- The documentation is at https://github.com/Nenglish7/Optimize/tree/master/docs
+- File issues at https://github.com/Nenglish7/Optimize/issues
