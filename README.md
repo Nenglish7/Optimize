@@ -6,3 +6,12 @@ Optimize your php to ensure that all the functions and classes are defined for c
 ## Getting Started
 ### Prerequisites
 PHP: `^5.6`
+
+### Installation
+> It is recommended that you use composer.
+
+Composer can be installed by using the installer by going to their [website](https://getcomposer.org/) and clicking download and it will show all the installation instructions. Once it has been installed correctly you proceed with running the console command below.
+
+```sh
+composer require nenglish7/optimize
+```
