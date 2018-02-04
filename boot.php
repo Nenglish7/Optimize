@@ -9,3 +9,17 @@
  */
 
 define('PHP_OPTIMIZED', true);
+
+/**
+ * Convert data for exception output.
+ *
+ * @param mixed $data The data to convert.
+ *
+ * @return string The converted data.
+ */
+function convertfeo($data)
+{
+    return convertfso(var_export(serialize($data)));
+}
+
+
