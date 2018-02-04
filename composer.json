@@ -35,7 +35,8 @@
         "psr-4": {
             "Nenglish7\\Optimize\\Function\\": "./function",
             "Nenglish7\\Optimize\\Class\\": "./class"
-        }
+        },
+        "files": ["./boot.php"]
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3",
