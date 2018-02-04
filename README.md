@@ -3,4 +3,6 @@
 # Nenglish7/Optimize 
 Optimize your php to ensure that all the functions and classes are defined for complete compatibility. Enable helper functions and classes to speed up the development of your web application.
 
-## Getting started
+## Getting Started
+### Prerequisites
+PHP: `^7`
