@@ -2,7 +2,6 @@
 <ruleset name="Nenglish7/Optimize">
     <description>The php code sniffer.</description>
     <rule ref="PSR2" />
-    <file>./function</file>
-    <file>./class</file>
+    <file>./src</file>
     <file>./tests</file>
 </ruleset>
