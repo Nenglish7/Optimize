@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Nenglish7/Optimize.svg?branch=master)](https://travis-ci.org/Nenglish7/Optimize) [![Coverage Status](https://coveralls.io/repos/github/Nenglish7/Optimize/badge.svg?branch=master)](https://coveralls.io/github/Nenglish7/Optimize?branch=master)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/nenglish7/optimize.svg)](https://secure.php.net/) [![Packagist](https://img.shields.io/packagist/dt/Nenglish7/Optimize.svg)](https://packagist.org/packages/nenglish7/optimize) [![Build Status](https://travis-ci.org/Nenglish7/Optimize.svg?branch=master)](https://travis-ci.org/Nenglish7/Optimize) [![Coverage Status](https://coveralls.io/repos/github/Nenglish7/Optimize/badge.svg?branch=master)](https://coveralls.io/github/Nenglish7/Optimize?branch=master)
 
 # Nenglish7/Optimize 
 Optimize your php to ensure that all the functions and classes are defined for complete compatibility. Enable helper functions and classes to speed up the development of your web application.
