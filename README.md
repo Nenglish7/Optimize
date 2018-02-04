@@ -5,7 +5,7 @@ Optimize your php to ensure that all the functions and classes are defined for c
 
 ## Getting Started
 ### Prerequisites
-PHP: `^5.6`
+PHP: `^5.6|^7`
 
 ### Installation
 > It is recommended that you use composer.
